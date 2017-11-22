@@ -1,7 +1,7 @@
 # Visual Bot 2.0 [GÜNCEL SÜRÜM]
 Yoğun istek üzerine botun güncel sürümü yani 2.0 sürümünü paylaşıyorum **asıl sürüm 2.7**
 
-İlk olarak bu botta bana yardımcı olan Miracle teşekkürlerimi sunuyorum
+İlk olarak bu botta bana yardımcı olan Pormis kardeşimize teşekkürlerimi sunuyorum
 
 # 2.0 Özellikler
 + Altın sistemi.
