@@ -1,4 +1,8 @@
 # Visual Bot 2.0 [GÜNCEL SÜRÜM]
+
+[![Sunucumuza Git](https://discord.io/visualdestek)] veya [![Botu Davet Et](https://discordapp.com/oauth2/authorize?client_id=368768661298610176&scope=bot&permissions=401812495)]
+
+
 Yoğun istek üzerine botun güncel sürümü yani 2.0 sürümünü paylaşıyorum **asıl sürüm 2.7**
 
 İlk olarak bu botta bana yardımcı olan __Pormis__ kardeşimize teşekkürlerimi sunuyorum
