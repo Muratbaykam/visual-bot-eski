@@ -1,20 +1,23 @@
-# Visual Bot 1.4 [ESKİ]
-Merhaba arkadaşlar emeğim geçen botun eski dosyalarını sizlere açık bir şekilde paylaşıyorum.
+# Visual Bot 2.0 [GÜNCEL SÜRÜM]
+Yoğun istek üzerine botun güncel sürümü yani 2.0 sürümünü paylaşıyorum **asıl sürüm 2.7**
 
 İlk olarak bu botta bana yardımcı olan Miracle teşekkürlerimi sunuyorum
 
-# Özellikler
-+ Seviye sistemi.
-+ Yemek yeme komutu ile puan kasma.
-+ Emeği geçenler bölümü.
+# 2.0 Özellikler
++ Altın sistemi.
++ Madencilik sistemi.
++ Özel tasarlanan yardım kısmı.
 + Yazı tura sistemi.
 + Random kedi ve köpek resmi.
 + Random kedi adı ve köpek adı.
-+ Random şifre sistemi
-+ Direkt başlat için baslat.bat çalıştırmanız yeterlidir.
++ Banlama , uyarı verme komutları
++ Hastebin komutu
++ Direkt baslat.bat çalıştırınız.
 
 Ve bir çoğu botta yer almaktadır.
 
 Ek olarak bot hata verirse doğru modülleri yükleyiniz.
+
+# Eski sürüm halen durmaktadır.
 
 
