@@ -3,6 +3,8 @@ Yoğun istek üzerine botun güncel sürümü yani 2.0 sürümünü paylaşıyor
 
 İlk olarak bu botta bana yardımcı olan __Pormis__ kardeşimize teşekkürlerimi sunuyorum
 
+//**TOKEN KISMINI KENDİNİZE GÖRE UYARLAYINIZ ORADAKİ TOKEN ÇALIŞMIYOR.**
+
 # 2.0 Özellikler
 + Altın sistemi.
 + Madencilik sistemi.
